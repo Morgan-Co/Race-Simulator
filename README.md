@@ -15,16 +15,18 @@
 
 ### Пример работы программы
 
-![[./images/2025-05-05-145747_hyprshot.png]]
+![выбор типа гонки наземная](./images/01.jpg)
 
-![[./images/2025-05-05-145801_hyprshot.png]]
+![](./images/2025-05-05-145747_hyprshot.png)
 
-![[./images/2025-05-05-145817_hyprshot.png]]
+![](./images/2025-05-05-145801_hyprshot.png)
 
-![[./images/2025-05-05-145827_hyprshot.png]]
+![](./images/2025-05-05-145817_hyprshot.png)
 
-![[./images/2025-05-05-145839_hyprshot.png]]
+![](./images/2025-05-05-145827_hyprshot.png)
 
-![[./images/2025-05-05-145847_hyprshot.png]]
+![](./images/2025-05-05-145839_hyprshot.png)
+
+![](./images/2025-05-05-145847_hyprshot.png)
 
 ![[./images/2025-05-05-145858_hyprshot.png]]
