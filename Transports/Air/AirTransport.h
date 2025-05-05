@@ -1,5 +1,6 @@
 #pragma once
 #include "../Transport.h"
+#include <math.h>
 
 class AirTransport : public Transport {
 protected:

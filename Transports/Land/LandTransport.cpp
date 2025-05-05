@@ -1,4 +1,5 @@
 #include "LandTransport.h"
+#include "math.h"
 
 LandTransport::LandTransport() {
 	type = ERaceTypes::land_race;

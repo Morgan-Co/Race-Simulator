@@ -1,4 +1,5 @@
 #include "SpeedsterCamel.h"
+#include <math.h>
 
 SpeedsterCamel::SpeedsterCamel() {
 	id = 6;
